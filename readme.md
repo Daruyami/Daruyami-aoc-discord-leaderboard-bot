@@ -1,6 +1,7 @@
 Uploaded it here so anyone could self host it for your server, 
 if you have any questions feel free to contact me on Discord - Green#7964
-\nIts written in Python and uses discord.py.
+
+Its written in Python and uses discord.py.
 
 #TODO:
 1. Score
